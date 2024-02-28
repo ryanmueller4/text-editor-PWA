@@ -24,3 +24,4 @@ Philip Loy, FSF Tutor
 N/A
 
 ## Screenshot of Deployed Application
+![image](https://github.com/ryanmueller4/text-editor-PWA/assets/98727619/61426043-319f-479a-9544-7714d2e1dcdc)
